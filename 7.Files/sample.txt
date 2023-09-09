@@ -1,2 +1,0 @@
-this is sample file to read data
-we are reading second line
